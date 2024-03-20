@@ -11,3 +11,5 @@ Julian es un apasionado de la calistenia, de las motos y de la programacion es u
 
 Te preguntaras por q es asi
 Es la personalidad q va de acuerdo con la mentalidad y el fisico q desea alcanzar
+
+Esto se sale de la base el archivo pero es el primer cambio hecho desde GitHub
